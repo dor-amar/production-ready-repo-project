@@ -1,6 +1,9 @@
 import pytest
-from service2.app import app
-from app import app
+#from app import app
+#from service2.app import app
+from service1.app import app
+
+
 
 @pytest.fixture
 def client():
