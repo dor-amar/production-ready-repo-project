@@ -1,0 +1,26 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+.env/
+
+# IDE and editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+*.cover
+*.coverage
+coverage.xml
+
+# Dependency directories
+node_modules/
+
+# pytest cache directory
+.cache/
